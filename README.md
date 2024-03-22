@@ -54,7 +54,7 @@
 
 • **git clean -n:** Shows a preview of untracked files to be deleted.
 
-•** git clean -f:** Deletes untracked files from the working directory.
+• **git clean -f:** Deletes untracked files from the working directory.
 
 • **git rebase [branch name]:** Rebases the current branch onto the specified branch.
 
